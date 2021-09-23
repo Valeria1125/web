@@ -1,0 +1,132 @@
+
+.First{
+  background:antiquewhite;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 35px;
+  
+}
+
+.Second{
+  background:antiquewhite;
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 20px;
+  margin: 6px;
+}
+
+.List{
+  margin-top: 70px;
+  margin-left: 15px;
+  text-decoration: underline;
+  font-size: 25px;
+  font-family: Helvetica ;
+  width: 240px;
+	height: 270px;
+	border: 1px solid black; 
+}
+
+.pic{
+  position: relative;
+  left:400px;
+  top:-530px;
+  }
+
+  .Three{
+    text-align: left;
+    position: relative;
+    left:1100px;
+    top:-250px;
+    width: 300px;
+    font-size: 20px;
+    font-family: Helvetica;
+    
+  }
+
+  
+
+ .FC{
+   margin-top: -460px;
+   margin-left: 240px;
+   font-size: 22px;
+   
+ }
+
+ .Four{
+   margin-left: 220px;
+   font-size: 20px;
+ 
+ }
+
+ .Searchh{
+   margin-top: 40px;
+   margin-left: 10px;
+ }
+
+
+ .SC{
+  margin-top: -134px;
+  margin-left: 600px;
+  font-size: 22px;
+  
+}
+
+.Five{
+  margin-left: 580px;
+  font-size: 20px;
+
+}
+
+.TC{
+  margin-top: -138px;
+  margin-left: 1010px;
+  font-size: 22px;
+  
+}
+
+.Seven{
+  margin-left: 990px;
+  font-size: 20px;
+  margin-top: 20px;
+
+}
+ 
+.Granitca{
+  border-bottom:  1px solid black; 
+  margin-bottom: 100px;
+  width: 300px;
+  padding-bottom: 20px;
+}
+
+.card-horizontal {
+  flex-direction: row;
+}
+.card-horizontal-reverse {
+  flex-direction: row-reverse;
+}
+.body-background{
+ background: url(../images/milassa_ambient_am7-012_4_1.jpg) 0 0 repeat;
+  border: solid 1px #dfdfdf;
+  margin-top: 10px;
+}
+
+body{
+    background: url(../images/milassa_ambient_am7-012_4_1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+     background-size: cover;
+}
+  
+
+  
+
+ 
+
+
+
+
+ 
+  
+  
+  
